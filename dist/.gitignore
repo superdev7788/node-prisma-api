@@ -1,0 +1,11 @@
+# Dependency directory
+node_modules/
+
+# Production build output
+dist/
+
+# Editor configuration files
+.vscode/
+
+# Environment variables
+.env

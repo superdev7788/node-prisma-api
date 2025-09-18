@@ -76,6 +76,7 @@ npx prisma generate
 
 ```bash
 npm run dev
+npm run dev-run
 ```
 
 API server by default runs at `http://localhost:3000`
